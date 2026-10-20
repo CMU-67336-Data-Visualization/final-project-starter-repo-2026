@@ -1,4 +1,4 @@
-# 67-336 Final Project — Phase Timeline (Fall 2026)
+# 67-336 Final Project, Phase Timeline (Fall 2026)
 
 *All submissions are due on Canvas by 11:59PM ET on the date listed. No late submissions will be accepted for credit unless extenuating circumstances arise in accordance with the course syllabus.*
 
