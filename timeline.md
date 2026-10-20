@@ -7,7 +7,7 @@
 | **Oct 22 (Thu)** | Final project released and groups assigned
 | **Nov 1 (Sun)** | **Phase 1 due:** proposal identifying the social issue, problem, purpose, stakeholders, data sources, and initial chart choices (wireframe optional) |
 | **Nov 15 (Sun)** | **Phase 2 due:** midpoint checkpoint with one live dashboard piece, an interim report, and a contribution log |
-| **Dec 1 (Tue)** | **TA check-in:** sign up for a 20-minute feedback session (sign-up posted as Canvas announcement) |
+| **Dec 1 (Tue)** | **TA check-in:** Feedback session during class time
 | **Dec 2 (Wed)** | **Phase 3 due:** full dashboard, final report, and presentation slides |
 | **Dec 3 (Thu)** | **Phase 4:** in-class presentation and peer evaluation due (last day of class) |
 
