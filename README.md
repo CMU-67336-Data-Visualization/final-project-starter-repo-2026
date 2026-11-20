@@ -2,11 +2,34 @@
 
 **Start here:** read [INSTRUCTIONS.md](./INSTRUCTIONS.md) for the full project instructions and [timeline.md](./timeline.md) for the phase schedule.
 
-This is an [Observable Framework](https://observablehq.com/framework) app. To start the local preview server, run:
+This is an [Observable Framework](https://observablehq.com/framework) app. #
+
+# Getting Started
+
+**1. Clone the repo**
 
 ```
+git clone https://github.com/CMU-67336-Data-Visualization/final-project-starter-repo-2026.git
+```
+
+**2. Move into the project folder**
+
+```
+cd final-project-starter-repo-2026
+```
+
+**3. Install dependencies and start the preview server**
+
+```
+npm install
 npm run dev
 ```
+
+You only need `npm install` the first time. After that, just run `npm run dev`.
+
+Then visit http://localhost:3000 to preview your app.
+
+> **Getting `ENOENT: Could not read package.json`?** You're in the wrong folder. Run `ls` and check that you see `package.json`. If you don't, `cd` into the project folder first.
 
 Then visit <http://localhost:3000> to preview your app.
 
